@@ -7,3 +7,7 @@ This is a repository of projects for the Math 311 linear algebra course at Winon
 1. Solve Systems using Colab and Python
    Using Google Co-Lab to introduce the idea of solving systems of equations with code:
    https://github.com/ValerieHazelton/Math311_Linear_Algebra_Projects/blob/438f614650c57f0649bad396d1aea9dc525e379f/Copy_of_Math_311_solve_systems_using_computation_and_rref.ipynb
+2. Ski Lodge Markov Matrix
+   Using Google Co-Lab to create Markov Matrix to show transition matrixes for the ski lodge problem
+   https://github.com/ValerieHazelton/Math311_Linear_Algebra_Projects/blob/e18e5d6ed04642fede3c744244378fce9fb925ca/Copy_of_The_Ski_Hill_Transition_Matrices_and_Markov_Chains.ipynb
+   
