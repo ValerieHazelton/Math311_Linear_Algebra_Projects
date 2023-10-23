@@ -10,4 +10,9 @@ This is a repository of projects for the Math 311 linear algebra course at Winon
 2. Ski Lodge Markov Matrix
    Using Google Co-Lab to create Markov Matrix to show transition matrixes for the ski lodge problem
    https://github.com/ValerieHazelton/Math311_Linear_Algebra_Projects/blob/e18e5d6ed04642fede3c744244378fce9fb925ca/Copy_of_The_Ski_Hill_Transition_Matrices_and_Markov_Chains.ipynb
-   
+3. Finding a Secret Number
+   Using Google Co-Lab to use matrices to find a secret number given only plot points
+   https://github.com/ValerieHazelton/Math311_Linear_Algebra_Projects/blob/38f851cfb90696fe4edbbc4b08be665c97cbcc67/Math_311_secret_number.ipynb
+4. Sports Teams Rankings
+   Using Google Co-Lab to solves for matrices using NFL data and recent game outcomes to predict a future winner.
+   https://github.com/ValerieHazelton/Math311_Linear_Algebra_Projects/blob/4b7a5dbe5864b50ee3e933583af2322aa1ef6d7c/Copy_of_Sports_Teams_Rankings.ipynb
