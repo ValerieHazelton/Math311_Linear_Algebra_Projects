@@ -16,3 +16,6 @@ This is a repository of projects for the Math 311 linear algebra course at Winon
 4. Sports Teams Rankings
    Using Google Co-Lab to solves for matrices using NFL data and recent game outcomes to predict a future winner.
    https://github.com/ValerieHazelton/Math311_Linear_Algebra_Projects/blob/4b7a5dbe5864b50ee3e933583af2322aa1ef6d7c/Copy_of_Sports_Teams_Rankings.ipynb
+5: Gram-Schmidt Process using vectors.
+   Using Google Co-Lab, coded the Gram-Schmidt Process!
+   https://github.com/ValerieHazelton/Math311_Linear_Algebra_Projects/blob/4aef6bddf4c0980affa01301ce2c81c081375a33/Copy_of_Gram_Schmidt_Process_using_vectors.ipynb
