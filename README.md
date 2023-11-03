@@ -19,3 +19,10 @@ This is a repository of projects for the Math 311 linear algebra course at Winon
 5. Gram-Schmidt Process using vectors.
    Using Google Co-Lab, coded the Gram-Schmidt Process!
    https://github.com/ValerieHazelton/Math311_Linear_Algebra_Projects/blob/4aef6bddf4c0980affa01301ce2c81c081375a33/Copy_of_Gram_Schmidt_Process_using_vectors.ipynb
+6. Gram-Schmidt Process with Function Spaces:
+
+Polynomial Function Spaces: 
+
+Periodic Function Spaces: 
+
+7. The Impact of Singular Values (e.g. eigenvalues for non-square matrices) 
