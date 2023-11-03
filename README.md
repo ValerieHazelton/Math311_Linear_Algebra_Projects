@@ -21,7 +21,7 @@ This is a repository of projects for the Math 311 linear algebra course at Winon
    https://github.com/ValerieHazelton/Math311_Linear_Algebra_Projects/blob/4aef6bddf4c0980affa01301ce2c81c081375a33/Copy_of_Gram_Schmidt_Process_using_vectors.ipynb
 6. Gram-Schmidt Process with Function Spaces:
 
-Polynomial Function Spaces: 
+Polynomial Function Spaces: https://github.com/ValerieHazelton/Math311_Linear_Algebra_Projects/blob/7904a87434cf3888d8cce51a275c54dfb4b29427/Copy_of_Gram_Schmidt_Process_with_Poynomial_Function_Spaces.ipynb
 
 Periodic Function Spaces: 
 
