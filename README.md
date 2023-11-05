@@ -23,6 +23,6 @@ This is a repository of projects for the Math 311 linear algebra course at Winon
 
 Polynomial Function Spaces: https://github.com/ValerieHazelton/Math311_Linear_Algebra_Projects/blob/7904a87434cf3888d8cce51a275c54dfb4b29427/Copy_of_Gram_Schmidt_Process_with_Poynomial_Function_Spaces.ipynb
 
-Periodic Function Spaces: 
+Periodic Function Spaces: https://github.com/ValerieHazelton/Math311_Linear_Algebra_Projects/blob/e8f65429b70dacfa0b4e5f1390f53c68dc8013a8/(hw)_Copy_of_Gram_Schmidt_Process_with_Periodic_Function_Spaces.ipynb
 
 7. The Impact of Singular Values (e.g. eigenvalues for non-square matrices) 
